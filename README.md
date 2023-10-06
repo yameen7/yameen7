@@ -7,7 +7,7 @@
 - 📫 How to reach me
   -    **✉️&nbsp; myameen033@gmail.com**
   -    **<img src="https://github.com/geekyvinayak/geekyvinayak/assets/67498083/eb8ed711-21a5-472d-8989-d549cacb5464" alt="linux" width="20" height="20"/> 
- &nbsp;[Linked-In](https://www.linkedin.com/in/mo-yameen-macchhar)**
+ &nbsp;[Linked-In](https://www.linkedin.com/in/mo-yameen-macchhar-9085b4208)**
 
 
 
