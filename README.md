@@ -22,6 +22,7 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yameen7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;&nbsp;
 [![trophy](https://github-profile-trophy.vercel.app/?username=yameen7&rank=S,AAA,AA,A,B&theme=juicyfresh&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img  src="https://github-readme-stats.vercel.app/api?username=yameen7&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
